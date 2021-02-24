@@ -3,7 +3,7 @@
 # Heroku
 Deployed it to the heroku.Here is the link for application: https://toxic-comment-prediction.herokuapp.com/<br>
 Here it looks like this<br>
-![](images/image1.JPG)
+![](sreenshot-flask-app/image1.JPG)
 
 # Overview
 This is a flask app which helps us to classify comment
