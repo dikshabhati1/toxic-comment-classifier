@@ -4,6 +4,7 @@
 Deployed it to the heroku.Here is the link for application: https://toxic-comment-prediction.herokuapp.com/<br>
 Here it looks like this<br>
 ![](sreenshot-flask-app/image1.JPG)
+![](sreenshot-flask-app/image1.JPG)
 
 # Overview
 This is a flask app which helps us to classify comment
@@ -13,3 +14,10 @@ To improve the online conversation. The threat of abuse and harassment online me
 
 # DataSource
 I have taken the dataset from kaggle.Link to the Dataset : https://www.kaggle.com/ericmclachlan/jigsaw-toxic-comment-train-and-test
+
+# Model Summary
+So basically I have trained it on 3 three different models
+- Logistic Regression
+- Naive Bayes
+- XgbClassifier
+The best accuracy I got is from LogisticRegression model
