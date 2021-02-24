@@ -6,7 +6,7 @@ Here it looks like this<br>
 
 ![](sreenshot-flask-app/image1.JPG)<br>
 
-![](sreenshot-flask-app/image1.JPG)
+![](sreenshot-flask-app/image2.JPG)
 
 # Overview
 This is a flask app which helps us to classify comment
