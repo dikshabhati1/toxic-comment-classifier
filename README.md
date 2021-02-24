@@ -1,1 +1,13 @@
 # toxic-comment-classifier
+
+# Heroku
+Deployed it to the heroku.Here is the link for application: https://toxic-comment-prediction.herokuapp.com/
+
+# Overview
+This is a flask app which helps us to classify comment
+
+# Motivation
+To improve the online conversation. The threat of abuse and harassment online means that many people stop expressing themselves and give up on seeking different opinions. Platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments.This model help us to detect the toxic comments
+
+# DataSource
+I have taken the dataset from kaggle.Link to the Dataset : https://www.kaggle.com/ericmclachlan/jigsaw-toxic-comment-train-and-test
