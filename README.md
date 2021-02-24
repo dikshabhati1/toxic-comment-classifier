@@ -22,4 +22,5 @@ So basically I have trained it on 3 three different models
 - Logistic Regression
 - Naive Bayes
 - XgbClassifier
-The best accuracy I got is from LogisticRegression model
+
+ The best accuracy I got is from LogisticRegression model
